@@ -1,11 +1,11 @@
-About r-ggsn
-============
+About r-ggsn-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggsn-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/oswaldosantos/ggsn
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggsn-feedstock/blob/main/LICENSE.txt)
 
 Summary: Adds north symbols (18 options) and scale bars in kilometers, meters, nautical miles, or statue miles, to maps in geographic or metric coordinates created with 'ggplot2' or 'ggmap'.
 
