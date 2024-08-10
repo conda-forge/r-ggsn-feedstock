@@ -1,6 +1,5 @@
 {% set version = '0.5.0' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-ggsn
@@ -13,8 +12,7 @@ source:
   sha256: 5d3882e8fed99a5d3da5b4ccc66ab123a8b15aaefdcd12315ed0003ed0557613
 
 build:
-  merge_build_host: True  # [win]
-  number: 4
+  number: 5
   noarch: generic
   rpaths:
     - lib/R/lib/
